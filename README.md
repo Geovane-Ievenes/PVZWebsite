@@ -2,11 +2,11 @@
 
 ## Relatos sobre o projeto
 
-Este projeto foi inicialmente desenvolvido para um trabalho de curso, em que foi solicitado que desenvolvessemos um website com tema livre, utilizando HTML, CSS e PHP. O site foi desenvolvido por mim, [Geovane Ievenes](https://github.com/Geovane-Ievenes), e Gabrieol Duarte, colega e companheiro de estudos.
+Este projeto foi inicialmente desenvolvido para um trabalho de curso, em que foi solicitado que desenvolvessemos um website com tema livre, utilizando HTML, CSS e PHP. O site foi desenvolvido por mim, [Geovane Ievenes](https://github.com/Geovane-Ievenes), e Gabriel Duarte, colega e companheiro de estudos.
 
-Como sendo o primeiro site completo que desenvolvemos em dupla, é claro que há um erro ou outro em alguns quesitos, mas o importante é que isso fique aqui registrado, para que futuramente possamos ver a nossa evolução na carreira da programação.
+Já que esse é o primeiro site completo que desenvolvemos em dupla, é claro que há um erro ou outro em alguns quesitos, mas o importante é que isso fique aqui registrado, para que futuramente possamos ver a nossa evolução na carreira da programação.
 
-A divisão quanto as responsabilidades do projeto ficaram até que bem simples: Gabriel ficou responsável por desenvolver a maior parte do front-end, e eu, desenvolvi maior parte do back-end. A única diferença deste projeto para o que foi devidamente entregue ao professor, é o sistema de ranking, já que como estávamos com um curto prazo para estrego do trabalho final, decidimos deixa-lo de lado e entregar do jeito que estava. Porém, como eu já havia desenvolvido parte da implementação, e não queria jogar código fora, decidi finalizar o que comecei e subir isso para o meu perfil no Github.
+A divisão quanto as responsabilidades do projeto ficaram até que bem simples: Gabriel ficou responsável por desenvolver a maior parte do front-end, e eu, desenvolvi maior parte do back-end. A única diferença deste projeto para o que foi devidamente entregue ao professor, é o sistema de ranking, já que como estávamos com um curto prazo para estrega do trabalho final, decidimos deixa-lo de lado e entregar do jeito que estava. Porém, como eu já havia desenvolvido parte da implementação, e não queria jogar código fora, decidi finalizar o que comecei e subir isso para o meu perfil do Github.
 
 Caso queira dar alguma sugestão de melhora, ou indicar algum possível erro no código, ou alguma maneira melhor de realizar alguma tarefa, estarei sempre aberto a sugestões, pois é sempre bom aprender mais :)
 

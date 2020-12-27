@@ -1,0 +1,39 @@
+.user-info{
+	width: 23%;
+	height: 85%;
+
+	position: absolute;
+	top: 10%;
+	left: 2%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-color: #79b08c;
+	color: #000;
+
+	border-radius: 10% 0px 10% 0px;
+
+	z-index: 2
+}
+
+main.user-description{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+
+	margin-left: 9%;
+}
+
+main.user-description p#name{
+	font-family: Arial;
+	font-size: 17pt;
+
+	margin-bottom: 10px;
+}
+
+main.user-description p#pontuation{
+	text-align: center;
+}

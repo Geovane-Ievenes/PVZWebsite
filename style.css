@@ -1,0 +1,148 @@
+@font-face{
+    font-family:Cabold;
+    src: local('Cabold Comic.otf'), url('Cabold Comic.otf');
+}
+.sub{
+    font-family:Cabold;
+    color:#fff;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:sans-serif;
+    
+}
+
+body{
+    background-image: url('./back1.jpg');
+}
+
+main{
+    height:40%; 
+}
+
+/*HEADER*/
+header{
+
+    width:100%;
+    height: 130px;
+    background: #0a8d2d;;
+    position: relative;
+    top:0px;
+    left:0px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title{
+    width: 100%;
+    height: 75%;
+
+    display: flex;
+    flex-direction: column;
+
+    font-size: 15pt;
+    font-family: Arial;
+
+    align-items: center;
+}
+
+.header-options{ 
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    justify-content: right;
+}
+
+.options{
+    width: 80%;
+    height: 100%;
+    
+    margin-left: 90%;
+}
+
+.options a{
+
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:Cabold;
+    color:rgb(194, 202, 201);
+}
+
+/*2 NAV BAR*/
+
+#megan{
+    width: 100%;
+    height: 3rem;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-decoration:none;
+    text-align:center;  
+
+    background-color: #000;
+    color: #fff;
+}
+
+#megan .all-options a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#megan a{
+    margin: 0px 15px;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+
+    background-image: url('./img4.jpg');
+}
+
+.content-text{
+    position: relative;
+    left: 0px;
+    width: 50%;
+    height: 45%;
+    font-family:verdana;
+    line-height: 30px;
+    margin:20px;
+    padding: 10px;
+    text-align: justify;
+    background-color: #000;
+    color: #fff;
+
+}
+
+figure img{
+
+position: absolute;
+right:10px;
+top:220px;
+
+}
+
+footer{
+    width: 100%;
+    height: 110px;
+
+    background: rgb(0, 0, 0);
+    color:#fff;
+
+    font-size: 14pt;
+    font-weight: bolder;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom:0px;
+
+}

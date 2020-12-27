@@ -1,0 +1,125 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	width: 100vw;
+	height: 100vh;
+}
+
+#container{
+	width: 100%;
+	height: 100%;
+
+	background-image: url('../login-bg.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#login-box{
+	width: 40%;
+	height: 60%;
+
+	background-color: #f4f8f4;
+
+	border-radius: 12pt;
+
+	display: flex;
+	flex-direction: column;
+
+	align-items: center;
+}
+
+/*INSIDE LOGIN BOX*/
+
+	/*TITLE*/
+
+.login-title {
+	width: 100%;
+	height: 15%;
+
+	text-align: center;
+}
+
+/*INSIDE THE FORM*/
+
+.login-form {
+	width: 100%;
+	height: 85%;
+}
+
+	/*FORM MAIN*/
+
+.login-form main{
+	width: 100%;
+	height: 75%;
+
+	display: flex;
+	flex-direction: column;
+
+	justify-content: center;
+}
+
+.login-inputs label{
+	display: flex;
+	flex-direction: column;
+
+	margin-bottom: 40px;
+}
+
+.login-inputs input, p{
+	margin-left: 5%;
+
+	height: 20px;
+}
+
+.login-inputs a{
+	font-family: Arial;
+
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	color: #000;
+	text-shadow: 1px 1px #0fae00;
+
+	margin-bottom: 8%;
+}
+
+.login-inputs a:hover{
+	text-decoration: underline;
+}
+
+/*FORM FOOTER*/
+
+.login-form footer{
+	width: 100%;
+	height: 25%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.login-form footer input{
+	width: 90%;
+	height: 60%;
+
+	margin-bottom: 13%;
+	border-radius: 1rem 0px 1rem 0px;
+
+	font-size: 1.3em;
+	font-family: Arial;
+	color: #ffffff;
+
+	background-color: #73e75b;
+}
+
+.login-form footer input:hover{
+	background-color: #6fb05d;
+}

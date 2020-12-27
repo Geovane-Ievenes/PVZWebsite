@@ -1,0 +1,88 @@
+/*HEADER FONT FAMILY*/
+
+@font-face{
+    font-family:Cabold;
+    src: local('Cabold Comic.otf'), url('../Cabold Comic.otf');
+}
+.sub{
+    font-family: Cabold;
+    color:#fff;
+}
+
+/*HEADER STYLE*/
+
+header{
+
+    width:100%;
+    height: 130px;
+    background: #4b2459;
+    position: relative;
+    top:0px;
+    left:0px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title{
+    width: 100%;
+    height: 75%;
+
+    display: flex;
+    flex-direction: column;
+
+    font-size: 15pt;
+    font-family: Arial;
+
+    align-items: center;
+}
+
+.header-options{ 
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    justify-content: right;
+}
+
+.options{
+    width: 80%;
+    height: 100%;
+    
+    margin-left: 90%;
+}
+
+.options a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-family:Cabold;
+    color:rgb(194, 202, 201);
+}
+
+/*2 NAV BAR*/
+
+#megan{
+    width: 100%;
+    height: 3rem;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-decoration:none;
+    text-align:center;  
+
+    background-color: #000;
+    color: #fff;
+}
+
+#megan .all-options a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#megan a{
+    margin: 0px 15px;
+}

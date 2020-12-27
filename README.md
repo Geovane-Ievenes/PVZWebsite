@@ -14,7 +14,7 @@ Caso queira dar alguma sugestão de melhora, ou indicar algum possível erro no 
 
 Na verdade é bem simpes: a temática do site é Plants Vs Zombies: Battle Neighborville. E o intuito dele é trazer para os jogadores, um ambiente onde podem explorar, através da nossa wiki, as características dos personagens e estratégias de como usá-los. Além também, de poder testar os seus conhecimentos no game através de um quiz, em que a cada resposta correta, te dá mais pontos para competir no ranking "global" do site.
 
-Tudo foi desenvolvido localmente, o site não possui nenhuma comunicação com APIs externas, servidores externos, não usa frameworks PHP nem nada, até porque, ainda somos estudantes, mas estamos buscando sempre aprendez mais.
+Tudo foi desenvolvido localmente, o site não possui nenhuma comunicação com APIs externas, servidores externos, não usa frameworks PHP nem nada, até porque, ainda somos estudantes, mas estamos buscando sempre aprender mais.
 
 NOTA: conseguimos a nota máxima com esse trabalho, então vejo que todo o esforço que tivemos nele valeu a pena :)
 

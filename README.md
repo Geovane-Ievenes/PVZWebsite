@@ -33,7 +33,7 @@ Como ainda não sabíamos fazer implementações com banco de dados, todo o sist
 
 ### Transition Page 
 
-*Como não é possível fazer requisições POST sem um formulário, tive que criar esta página para enviar as informações de cadastro/login de volta para a página*
+*Como não é possível fazer requisições POST sem um formulário ( EDIT: Na verdade existe sim, e eu implementei isso num projeto posterior XD), tive que criar esta página para enviar as informações de cadastro/login de volta para a página*
 
 <img src="https://github.com/Geovane-Ievenes/PVZWebsite/blob/main/prints/transition%20page.jpg" width="400" heigth="300">
 

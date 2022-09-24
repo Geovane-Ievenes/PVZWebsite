@@ -2,7 +2,7 @@
 
 ## Relatos sobre o projeto
 
-Este projeto foi inicialmente desenvolvido para um trabalho de curso, em que foi solicitado que desenvolvessemos um website com tema livre, utilizando HTML, CSS e PHP. O site foi desenvolvido por mim, [Geovane Ievenes](https://github.com/Geovane-Ievenes), e Gabriel Duarte, colega e companheiro de estudos.
+Este projeto foi inicialmente desenvolvido para um trabalho de curso, em que foi solicitado que desenvolvessemos um website com tema livre, utilizando HTML, CSS e PHP. O site foi desenvolvido por mim, [Geovane Ievenes](https://github.com/Geovane-Ievenes), e Gabriel Duarte.
 
 Já que esse é o primeiro site completo que desenvolvemos em dupla, é claro que há um erro ou outro em alguns quesitos, mas o importante é que isso fique aqui registrado, para que futuramente possamos ver a nossa evolução na carreira da programação.
 
